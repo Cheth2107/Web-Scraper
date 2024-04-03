@@ -112,3 +112,10 @@ def generate_question(named_entities):
 for i in range(5):
     question = generate_question(named_entities)
     print(question)
+
+
+https://python.langchain.com/docs/use_cases/csv
+
+open ai api - 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
+
+hugging face token - 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
