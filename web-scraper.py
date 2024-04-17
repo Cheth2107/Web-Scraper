@@ -116,6 +116,8 @@ for i in range(5):
 
 https://python.langchain.com/docs/use_cases/csv
 
+https://www.blackbox.ai/share/6122c310-ae39-47ad-bb12-c9eca92cfabf
+
 open ai api - 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
 
 hugging face token - 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
